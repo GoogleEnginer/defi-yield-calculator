@@ -1,1 +1,1 @@
-# defi-yield-calculatorPWimDSU
+# defi-yield-calculator
